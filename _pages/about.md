@@ -22,7 +22,7 @@ Hi! I am a first-year PhD student at The Hong Kong University of Science and Tec
 
 My current research interest lies in the intersection of batteries and machine learning. During my undergraduate period, I have research experience in graph learning and NLP.
 
-Honors:
+**Honors:**
 * National second prize of software cup 2020 (Top 3%)
 
 
