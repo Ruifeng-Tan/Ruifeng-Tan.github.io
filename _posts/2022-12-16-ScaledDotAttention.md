@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title:  Why the attention should be scaled by $\sqrt[]{d}$
@@ -7,7 +6,7 @@ description: Why the attention should be scaled by $\sqrt[]{d}$
 tags: DL
 categories: learn-ML
 ---
-```
+
 
 # Why the attention should be scaled by $\sqrt[]{d}$
 
