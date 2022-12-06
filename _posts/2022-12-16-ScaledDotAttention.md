@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Why the attention should be scaled by $\sqrt[]{d}$
+title:  Why the attention should be scaled sqrt d
 date: 2022-12-16 13:15:00
-description: Why the attention should be scaled by $\sqrt[]{d}$
+description: Why the attention should be scaled sqrt d$
 tags: DL
 categories: learn-ML
 ---
