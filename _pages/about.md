@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> </p>
+    <p>rtan474@connect.hkust-gz.edu.cn </p>
     <p> </p>
     <p> </p>
 
