@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Why the attention should be scaled sqrt d
-date: 2022-12-16 13:15:00
-description: Why the attention should be scaled sqrt d$
-tags: DL
-categories: learn-ML
+title:  why scaled dot produt attention
+date: 2022-12-16 21:01:00
+description: understand scaled dot product attention.
+categories: DL
 ---
 
 
