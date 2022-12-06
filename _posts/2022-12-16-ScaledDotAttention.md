@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  why scaled dot produt attention
+title: why scaled dot produt attention
 date: 2022-12-16 21:01:00
 description: understand scaled dot product attention.
 categories: DL
