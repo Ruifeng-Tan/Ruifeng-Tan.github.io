@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a first-year PhD student at the sustainable energy and environment thrust of The Hong Kong University of Science and Technology (Guangzhou) under the supervision of [Prof. Tong-Yi Zhang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Tongyi/mezhangt). Previously, I obtained my B.Eng in computer science and technology from Wuhan University in 2022. 
+Hi! I am a first-year PhD student at the sustainable energy and environment thrust of The Hong Kong University of Science and Technology (Guangzhou) under the supervision of [Prof. Tong-Yi Zhang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Tongyi/mezhangt), [Prof. Minghao Cheng](https://cse.hkust.edu.hk/~minhaocheng/) and [Prof. Jia Li](https://sites.google.com/view/lijia). I also feel lucky to work closely with [Prof. Jiaqiang Huang](https://seejhuang.people.ust.hk/). Previously, I obtained my B.Eng in computer science and technology from Wuhan University in 2022. 
 
 My current research interest lies in the intersection of batteries and machine learning. During my undergraduate period, I have research experience in graph learning and NLP.
 
