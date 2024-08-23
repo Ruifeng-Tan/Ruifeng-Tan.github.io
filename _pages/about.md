@@ -23,9 +23,14 @@ Hi! I am a second-year PhD student at the sustainable energy and environment thr
 My current research interest lies in the intersection of batteries and AI, including:
 
 - Data-driven battery life prediction.
+
 - Data-driven battery optimization.
+
 - Domain-knowledge-guided AI for battery.
+
 - Interpretable AI for battery.
+
+  
 
 **Honors:**
 
