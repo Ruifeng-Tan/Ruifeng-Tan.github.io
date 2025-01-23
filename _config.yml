@@ -10,29 +10,29 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Yanzhe Chen (陈彦哲)"
+name                     : &name "Ruifeng Tan (谭瑞锋)"
 description              : &description "personal description"
-url                      : https://chenanno.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Ruifeng-Tan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ChenAnno/ChenAnno.github.io"
+repository               : "Ruifeng-Tan/Ruifeng-Tan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self-zheng.png"
-  name             : "Yanzhe Chen (陈彦哲)"
+  avatar           : "prof_pic.jpg"
+  name             : "Ruifeng Tan (谭瑞锋)"
   pronouns         : # example: "she/her"  
-  bio              : "Postgraduate of Computer Science"
-  location         : "No. 128 Zhongguancun North Street"
-  employer         : "Peking University"
+  bio              : "PhD candidate of Sustainable Energy and Environment"
+  location         : "No.1 Du Xue Rd, Nansha District, Guangzhou"
+  employer         : "HUST(GZ)"
   uri              : # URL
-  email            : "chenyanzhe@stu.pku.edu.cn" 
+  email            : "rtan474@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.hk/citations?user=9lIMS-EAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=XAGG2pIAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ChenAnno"
+  github           : "Ruifeng-Tan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
