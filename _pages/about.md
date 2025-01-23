@@ -29,9 +29,15 @@ My current research interest lies in AI for batteries, especially domain-knowled
   Advisor: Yuanyuan Zhu
 
 
-
-
+## News
+- [January 2025] I will start my vising at HKUST from Feb. 1st to Aug. 31st.
+- [January 2025] One paper accepted by ICLR (Top-tier AI conference).
+- [December 2024] One paper was accepted and selected as a cover paper by ACS Energy Letters (SCI Q1 Top).
+- [August 2024] One paper accepted by Energy Storage Materials (SCI Q1 Top).
+- [September 2022] I joined HKUST(GZ) as a PhD student in SEE thrust!
+- [April 2022] One paper accepted by IJCNN 2022.
 
 ## Selected Awards
 
 - National second prize of software cup 2020 (Top 3%) 
+

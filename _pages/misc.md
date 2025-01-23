@@ -9,27 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-## Personality Traits
-
-* Proactive, optimistic, cheerful, and friendly
-
-  
 ## Hobbies
 
-* Table tennis  
-* Tai Chi ("Cultivate the mind, strengthen the body.")  
-* Swimming
-* Writing
+* Music
+* Badminton
+* Play the guitar
+* Novel and poem
+* Traveling
 
 
 ## Language Skills
 
 * Chinese (native)  
-* English (CET-6: 576)
+* English (TOEFL:109)
 
   
-## Service
-
-* The monitor during postgraduate study  
-* The commissary in charge of study during undergraduate study
 
