@@ -22,7 +22,7 @@ My current research interest lies in AI for batteries, especially domain-knowled
 - [April 2022] One paper accepted by IJCNN 2022.
 
 ## Publications
-\* denote equal contribution
+\* denotes equal contribution
 
 - **SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark**, Bin Cao, Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-Yi Zhang. *To appear in International Conference on Learning Representations (ICLR), 2025.*
 
