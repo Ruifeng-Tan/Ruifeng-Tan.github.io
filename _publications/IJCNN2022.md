@@ -2,7 +2,7 @@
 title: "PMGNN: A Pioneer-Master Graph Neural Network for Graph Classification"
 collection: publications
 date: 2022-07-18
-excerpt: 'This paper proposes a.'
+excerpt: 'This paper proposes a GNN that can consider multi-hop information for graph classification task. The effectiveness of the proposed method is demonstrated on four real-world datasets.'
 venue: 'IJCNN'
 paperurl: 'https://ieeexplore.ieee.org/document/9892849'
 citation: 'Tan, Ruifeng, and Yuanyuan Zhu. "PMGNN: A Pioneer-Master Graph Neural Network for Graph Classification." 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022.'
