@@ -17,7 +17,7 @@ My current research interest lies in AI for batteries, especially domain-knowled
 
 ## Experience
 
-- **PhD Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="32" style="vertical-align: middle;"/>  
+- **PhD Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
   SEE Thrust, The Hong Kong University of Science and Technology (Guangzhou) 
   September 2022 - Present    
   Advisor: Tong-Yi Zhang, Jiaqiang Huang, and Jia Li
