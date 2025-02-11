@@ -31,22 +31,28 @@ My current research interest lies in AI for batteries, especially domain-knowled
 
 ## Experience
 
-- **PhD Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
-  SEE Thrust, The Hong Kong University of Science and Technology (Guangzhou)
+**PhD Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
+SEE Thrust, The Hong Kong University of Science and Technology (Guangzhou)
 
-  September 2022 - Present
+September 2022 - Present
 
-  Advisor: Tong-Yi Zhang, Jiaqiang Huang, and Jia Li
+Advisor: Tong-Yi Zhang, Jiaqiang Huang, and Jia Li
 
 
-- **Undergraduate Student**  <img src="../images/WHU.png" alt="WHU Logo" width="40" style="vertical-align: middle;"/>  
-  Computer Science and Technology, Wuhan University
 
-  August 2018 - July 2022
+**Visiting Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
+CSE, The Hong Kong University of Science and Technology
 
-  Advisor: Yuanyuan Zhu
+February 2025 - Present
 
-## Selected Awards
+Host supervisor: Yike Guo
 
-- National second prize of software cup 2020 (Top 3%) 
+
+
+**Undergraduate Student**  <img src="../images/WHU.png" alt="WHU Logo" width="40" style="vertical-align: middle;"/>  
+Computer Science and Technology, Wuhan University
+
+August 2018 - July 2022
+
+Advisor: Yuanyuan Zhu
 
