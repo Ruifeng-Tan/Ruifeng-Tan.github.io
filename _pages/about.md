@@ -14,6 +14,9 @@ Hi! I am a third-year PhD student at the sustainable energy and environment thru
 My current research interest lies in AI for batteries, especially domain-knowledge-guided AI and interpretable AI for batteries. More details can be found in my [google scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AC6lMd8PIH28jI9lFlL_C9WwIrKkPBVFLJ4Q4yxwypYTF9x3S1TySXmdp1jXnovKUUB0Hef-DqMoRood9idOPGrsI-ZUPl0&user=XAGG2pIAAAAJ).
 
 ## News
+
+- [February 2025] Released [BatteryLife]([February 2025]), the largest and most diverse battery life resource to date.
+
 - [February 2025] Started my vising at CSE HKUST (Feb. 1st to Aug. 31st).
 - [January 2025] One paper accepted by ICLR (Top-tier AI conference).
 - [December 2024] One paper was accepted and selected as a cover paper by ACS Energy Letters (SCI Q1 Top).
