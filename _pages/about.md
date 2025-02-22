@@ -15,14 +15,14 @@ My current research interest lies in AI for batteries, especially domain-knowled
 
 ## News
 
-- [February 2025] Released [BatteryLife]([February 2025]), the largest and most diverse battery life resource to date.
+- [Feb. 2025] Released [BatteryLife]([February 2025]), the largest and most diverse battery life resource to date.
 
-- [February 2025] Started my vising at CSE HKUST (Feb. 1st to Aug. 31st).
-- [January 2025] One paper accepted by ICLR (Top-tier AI conference).
-- [December 2024] One paper was accepted and selected as a cover paper by ACS Energy Letters (SCI Q1 Top).
-- [August 2024] One paper accepted by Energy Storage Materials (SCI Q1 Top).
-- [September 2022] I joined HKUST(GZ) as a PhD student in SEE thrust!
-- [April 2022] One paper accepted by IJCNN 2022.
+- [Feb. 2025] Started my vising at CSE HKUST (Feb. 1st to Aug. 31st).
+- [Jan. 2025] One paper accepted by ICLR (Top-tier AI conference).
+- [Dec. 2024] One paper was accepted and selected as a cover paper by ACS Energy Letters (SCI Q1 Top).
+- [Aug. 2024] One paper accepted by Energy Storage Materials (SCI Q1 Top).
+- [Sep. 2022] I joined HKUST(GZ) as a PhD student in SEE thrust!
+- [Apr. 2022] One paper accepted by IJCNN 2022.
 
 ## Publications
 \*  denotes equal contribution
