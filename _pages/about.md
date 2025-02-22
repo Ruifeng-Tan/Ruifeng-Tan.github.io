@@ -15,7 +15,7 @@ My current research interest lies in AI for batteries, especially domain-knowled
 
 ## News
 
-- [Feb. 2025] Released [BatteryLife]([February 2025]), the largest and most diverse battery life resource to date.
+- [Feb. 2025] Released [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife), the largest and most diverse battery life resource to date.
 
 - [Feb. 2025] Started my vising at CSE HKUST (Feb. 1st to Aug. 31st).
 - [Jan. 2025] One paper accepted by ICLR (Top-tier AI conference).
