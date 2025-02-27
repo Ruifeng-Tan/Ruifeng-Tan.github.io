@@ -32,6 +32,10 @@ My current research interest lies in AI for batteries, especially domain-knowled
 - **Unravelling Thermal and Enthalpy Evolutions of Commercial Sodium-Ion Cells upon Cycling Ageing via Fiber Optic Sensors**, Jiaqiang Huang, Charles Delacourt, Parth Desai, Charlotte Gervillié-Mouravieff, Laura Albero Blanquer, Ruifeng Tan, Jean-Marie Tarascon. *J. Electrochem. Soc., 2023*. [[PAPER](https://iopscience.iop.org/article/10.1149/1945-7111/acf625)]
 - **PMGNN: A Pioneer-Master Graph Neural Network for Graph Classification**, Ruifeng Tan, and Yuanyuan Zhu. *IJCNN, 2022*. [[PAPER](https://ieeexplore.ieee.org/document/9892849)]
 
+# Preprints
+
+- **BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**, Ruifeng Tan, Weixiang Hong, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *2025* [[ArXiv](https://arxiv.org/abs/2502.18807)]
+
 ## Experience
 
 **PhD Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
