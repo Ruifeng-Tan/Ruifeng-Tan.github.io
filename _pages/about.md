@@ -36,7 +36,7 @@ My current research interest lies in AI for batteries, especially domain-knowled
 
 ## Preprints
 
-- **BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**, Ruifeng Tan, Weixiang Hong, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *2025* [[ArXiv](https://arxiv.org/abs/2502.18807)]
+- **BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**, Ruifeng Tan\*, Weixiang Hong\*, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *2025* [[ArXiv](https://arxiv.org/abs/2502.18807)]
 
 ## Experience
 
