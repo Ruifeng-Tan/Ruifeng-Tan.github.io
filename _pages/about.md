@@ -39,29 +39,46 @@ My current research interest lies in AI for batteries, especially domain-knowled
 - **BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**, Ruifeng Tan\*, Weixiang Hong\*, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *2025* [[ArXiv](https://arxiv.org/abs/2502.18807)]
 
 ## Experience
+**Visiting Student**  <img src="../images/HKUSTGZ.png" alt="HKUST Logo" width="30" style="vertical-align: middle;"/>  
+Computer Science and Engineering
 
-**PhD Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
-SEE Thrust, The Hong Kong University of Science and Technology (Guangzhou)
-
-September 2022 - Present
-
-Advisor: Tong-Yi Zhang, Jiaqiang Huang, and Jia Li
-
-
-
-**Visiting Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
-CSE, The Hong Kong University of Science and Technology
+The Hong Kong University of Science and Technology
 
 February 2025 - Present
 
-Host supervisor: Yike Guo
+Host supervisor: Prof. Yike Guo
 
+**PhD Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
+Sustainable Energy and Environment
 
+The Hong Kong University of Science and Technology (Guangzhou)
+
+September 2022 - Present
+
+Advisor: Prof. Tong-Yi Zhang, Prof. Jiaqiang Huang, and Prof. Jia Li
+
+**NLP Intern**  <img src="../images/zoom.png" alt="zoom Logo" width="80" style="vertical-align: middle;"/>  
+Zoom
+
+November 2021 - February 2022
+
+Group: CCI Team
+
+**Research Assistant**  <img src="../images/CUHK.png" alt="CUHK Logo" width="45" style="vertical-align: middle;"/>  
+Systems Engineering and Engineering Management
+
+The Chinese University of Hong Kong
+
+June 2021 - August 2021
+
+Advisor: Prof. Jeffrey Xu Yu
 
 **Undergraduate Student**  <img src="../images/WHU.png" alt="WHU Logo" width="40" style="vertical-align: middle;"/>  
-Computer Science and Technology, Wuhan University
+Computer Science and Technology
+
+Wuhan University
 
 August 2018 - July 2022
 
-Advisor: Yuanyuan Zhu
+Advisor: Prof. Yuanyuan Zhu
 
