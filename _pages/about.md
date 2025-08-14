@@ -20,8 +20,8 @@ My current research interest lies in AI for batteries, especially battery degrad
 - [Feb. 2025] Released [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife), the largest and most diverse battery life resource to date.
 - [Feb. 2025] Started my vising at CSE HKUST (Feb. 1st to Aug. 31st).
 - [Jan. 2025] One paper accepted by ICLR (Top-tier AI conference).
-- [Dec. 2024] One paper was accepted and selected as a cover paper by ACS Energy Letters (SCI Q1 Top).
-- [Aug. 2024] One paper accepted by Energy Storage Materials (SCI Q1 Top).
+- [Dec. 2024] One paper was accepted and selected as a cover paper by ACS Energy Letters.
+- [Aug. 2024] One paper accepted by Energy Storage Materials.
 - [Sep. 2022] I joined HKUST(GZ) as a PhD student in SEE thrust!
 
 ## Publications
@@ -53,22 +53,6 @@ The Hong Kong University of Science and Technology (Guangzhou)
 September 2022 - Present
 
 Advisor: Prof. Tong-Yi Zhang, Prof. Jiaqiang Huang, and Prof. Jia Li
-
-**NLP Intern**  <img src="../images/zoom.png" alt="zoom Logo" width="80" style="vertical-align: middle;"/>  
-Zoom
-
-November 2021 - February 2022
-
-Group: CCI Team
-
-**Research Assistant**  <img src="../images/CUHK.png" alt="CUHK Logo" width="45" style="vertical-align: middle;"/>  
-Systems Engineering and Engineering Management
-
-The Chinese University of Hong Kong
-
-June 2021 - August 2021
-
-Advisor: Prof. Jeffrey Xu Yu
 
 **Undergraduate Student**  <img src="../images/WHU.png" alt="WHU Logo" width="40" style="vertical-align: middle;"/>  
 Computer Science and Technology
