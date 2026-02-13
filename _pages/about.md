@@ -15,6 +15,8 @@ My current research interests lie in materials informatics, especially battery d
 
 ## News
 
+- [Dec. 2025] Released [PBT](https://arxiv.org/abs/2512.16334), a widely transferable battery life prediction foundation model.
+
 - [Sep. 2025] I returned to HKUST(GZ).
 - [May 2025] [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife) was accepted by KDD (Top-tier data mining conference).
 - [Feb. 2025] I am going to make an oral presentation at [2025 MRS Spring Meeting & Exhibit](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4200254).
@@ -34,6 +36,10 @@ My current research interests lie in materials informatics, especially battery d
 - **Forecasting battery degradation trajectory under domain shift with domain generalization**, Ruifeng Tan, Xibin Lu, Minhao Cheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *Energy Storage Materials, 2024*. [[PAPER](https://www.sciencedirect.com/science/article/pii/S2405829724005518)] [[CODE]](https://github.com/Ruifeng-Tan/MAGNet)
 - **Unravelling Thermal and Enthalpy Evolutions of Commercial Sodium-Ion Cells upon Cycling Ageing via Fiber Optic Sensors**, Jiaqiang Huang, Charles Delacourt, Parth Desai, Charlotte Gervillié-Mouravieff, Laura Albero Blanquer, Ruifeng Tan, Jean-Marie Tarascon. *J. Electrochem. Soc., 2023*. [[PAPER](https://iopscience.iop.org/article/10.1149/1945-7111/acf625)]
 - **PMGNN: A Pioneer-Master Graph Neural Network for Graph Classification**, Ruifeng Tan, and Yuanyuan Zhu. *IJCNN, 2022*. [[PAPER](https://ieeexplore.ieee.org/document/9892849)]
+
+# Preprints
+
+- **Pretrained Battery Transformer (PBT): A battery life prediction foundation model**, Ruifeng Tan, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. [[ArXiv]](https://arxiv.org/abs/2512.16334) [[CODE]](https://github.com/Ruifeng-Tan/PBT)
 
 ## Experience
 **Visiting Student**  <img src="../images/HKUSTGZ.png" alt="HKUST Logo" width="30" style="vertical-align: middle;"/>  
@@ -65,4 +71,4 @@ Advisor: Prof. Yuanyuan Zhu
 
 # Services
 
-Reviewer for IEEE Transactions on Industrial Electronics.
+Reviewer: IEEE Transactions on Industrial Electronics, KDD 2026.
