@@ -54,7 +54,7 @@ Host supervisor: Prof. Yike Guo
 **PhD Student**  <img src="../images/HKUSTGZ.png" alt="HKUSTGZ Logo" width="30" style="vertical-align: middle;"/>  
 Sustainable Energy and Environment
 
-The Hong Kong University of Science and Technology (Guangzhou)
+The Hong Kong University of Science and Technology
 
 September 2022 - Present
 
