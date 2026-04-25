@@ -71,4 +71,4 @@ Advisor: Prof. Yuanyuan Zhu
 
 # Services
 
-Reviewer: IEEE Transactions on Industrial Electronics, Journal of Energy Storage, KDD 2026.
+Reviewer: KDD, Applied Energy, IEEE Transactions on Industrial Electronics, Journal of Energy Storage.
