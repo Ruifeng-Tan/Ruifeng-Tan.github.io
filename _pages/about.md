@@ -15,6 +15,8 @@ His current research interests lie in materials informatics, especially battery 
 
 ## News
 
+- [May 2026] BatteryMFormer was accepted by KDD (Top-tier data mining conference). The preprint and code are currently being prepared for public release.
+
 - [Dec. 2025] Released [PBT](https://arxiv.org/abs/2512.16334), a widely transferable battery life prediction foundation model.
 
 - [Sep. 2025] I returned to HKUST(GZ).
@@ -29,6 +31,8 @@ His current research interests lie in materials informatics, especially battery 
 
 ## Publications
 \*  denotes equal contribution
+
+- **BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting**, Ruifeng Tan\*, Jintao Dong\*, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*.
 
 - **BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**, Ruifeng Tan\*, Weixiang Hong\*, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025*.  [[PAPER](https://dl.acm.org/doi/10.1145/3711896.3737372)] [[CODE]](https://github.com/Ruifeng-Tan/BatteryLife)
 - **Unlocking Ultrafast Diagnosis of Retired Batteries via Interpretable Machine Learning and Optical Fiber Sensors**, Taolue Zhang\*, Ruifeng Tan\*, Pinxi Zhu, Tong-Yi Zhang, Jiaqiang Huang. *ACS Energy Letters, 2025*. <span style="color: rgb(154, 3, 2);"> Cover Paper </span> [[PAPER](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.4c03054?casa_token=a57iWJ-S8fUAAAAA:_vU-Lr1B80ArJ2EPmjZwJgo4xTK7UZGDTLf15-9PFFoNcAjTWvuKrkCbOkkr_jcTHmcyFnMBCkNnHBT58g&casa_token=mjB3jOP8MyEAAAAA:VB6LMG4fozcFBwmO79Fgd3d3q6YD2iENgzqAfzGWm0ckmqyepRQdwAYoTilNW4OjN_sVIYa1lRPu7mtPxg)] [[CODE]](https://github.com/Ruifeng-Tan/Ultrafast-diagnosis-of-retired-batteries)
