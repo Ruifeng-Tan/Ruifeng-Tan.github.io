@@ -68,5 +68,7 @@ August 2018 - July 2022
 Advisor: Prof. Yuanyuan Zhu
 
 # Services
-
 Reviewer: KDD, Applied Energy, IEEE Transactions on Industrial Electronics, Journal of Energy Storage.
+
+# Awards
+- Best Poster Award, 3rd International AI4Materials Forum 2026.
