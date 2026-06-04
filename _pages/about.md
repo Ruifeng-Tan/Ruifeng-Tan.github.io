@@ -38,10 +38,10 @@ His current research interests lie in materials informatics, especially battery 
 - **PMGNN: A Pioneer-Master Graph Neural Network for Graph Classification**, Ruifeng Tan, and Yuanyuan Zhu. *International Joint Conference on Neural Networks (IJCNN), 2022*. [[PAPER](https://ieeexplore.ieee.org/document/9892849)]
 
 ## Preprints
-- **Pretrained battery transformer (PBT): A foundation model for universal battery life prediction**, Ruifeng Tan, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. [[ArXiv]](https://arxiv.org/abs/2512.16334) [[CODE]](https://github.com/Ruifeng-Tan/PBT)
+- **Pretrained battery transformer (PBT): A foundation model for battery life prediction**, Ruifeng Tan, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. [[ArXiv]](https://arxiv.org/abs/2512.16334) [[CODE]](https://github.com/Ruifeng-Tan/PBT)
 
 ## Experience
-**Visiting Student**  <img src="../images/HKUSTGZ.png" alt="HKUST Logo" width="30" style="vertical-align: middle;"/>  
+**Cross-campus Study**  <img src="../images/HKUSTGZ.png" alt="HKUST Logo" width="30" style="vertical-align: middle;"/>  
 Computer Science and Engineering
 
 The Hong Kong University of Science and Technology

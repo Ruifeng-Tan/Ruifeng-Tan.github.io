@@ -8,7 +8,7 @@ author_profile: false
 ## Publications
 \*  denotes equal contribution
 
-- **BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting**, Ruifeng Tan\*, Jintao Dong\*, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*.
+- **BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting**, Ruifeng Tan\*, Jintao Dong\*, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*.  [[PAPER](http://arxiv.org/abs/2605.27044)] [[CODE]](https://github.com/Ruifeng-Tan/BatteryMFormer)
 
 - **BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**, Ruifeng Tan\*, Weixiang Hong\*, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025*. [[PAPER](https://dl.acm.org/doi/10.1145/3711896.3737372)] [[CODE](https://github.com/Ruifeng-Tan/BatteryLife)]
 
@@ -24,4 +24,4 @@ author_profile: false
 
 ## Preprints
 
-- **Pretrained battery transformer (PBT): A foundation model for universal battery life prediction**, Ruifeng Tan, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. [[ArXiv](https://arxiv.org/abs/2512.16334)] [[CODE](https://github.com/Ruifeng-Tan/PBT)]
+- **Pretrained battery transformer (PBT): A foundation model for battery life prediction**, Ruifeng Tan, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. [[ArXiv](https://arxiv.org/abs/2512.16334)] [[CODE](https://github.com/Ruifeng-Tan/PBT)]
