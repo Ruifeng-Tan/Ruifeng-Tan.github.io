@@ -21,9 +21,9 @@ His current research interests lie in materials informatics, especially battery 
 - [Dec. 2025] Released [PBT](https://arxiv.org/abs/2512.16334), a widely transferable battery life prediction foundation model.
 - [Sep. 2025] I returned to HKUST(GZ).
 - [May 2025] [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife) was accepted by KDD (Top-tier data mining conference).
-- [Feb. 2025] I am going to make an oral presentation at [2025 MRS Spring Meeting & Exhibit](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4200254).
+- [Apr. 2025] Gave an oral presentation at [2025 MRS Spring Meeting & Exhibit](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4200254).
 - [Feb. 2025] Released [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife), the largest and most diverse battery life resource to date.
-- [Feb. 2025] Started my vising at CSE HKUST (Feb. 1st to Aug. 31st).
+- [Feb. 2025] Started my visiting study at HKUST CSE (Feb. 1st to Aug. 31st).
 - [Jan. 2025] One paper accepted by ICLR (Top-tier AI conference).
 - [Dec. 2024] One paper was accepted and selected as a cover paper by ACS Energy Letters.
 - [Aug. 2024] One paper accepted by Energy Storage Materials.
@@ -71,6 +71,7 @@ Advisor: Prof. Yuanyuan Zhu
 
 # Services
 Reviewer: KDD, Applied Energy, IEEE Transactions on Industrial Electronics, Journal of Power Sources, Journal of Energy Storage.
+
 
 # Awards
 - Best Poster Award, 3rd International AI4Materials Forum 2026.
