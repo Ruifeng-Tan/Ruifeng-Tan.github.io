@@ -270,6 +270,16 @@ a:hover { color: #155b84; text-decoration: none; }
   line-height: 1.45;
 }
 
+.institution-item .institution-advisors,
+.institution-item .institution-group {
+  margin-top: 0.25rem;
+}
+
+.institution-advisors a,
+.institution-group a {
+  color: var(--academic-green);
+}
+
 .institution-period {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;

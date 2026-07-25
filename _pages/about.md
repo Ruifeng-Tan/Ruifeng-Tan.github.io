@@ -16,7 +16,7 @@ redirect_from:
     <p class="profile-role"><i class="fas fa-seedling" aria-hidden="true"></i> Postdoctoral Fellow, The Hong Kong University of Science and Technology</p>
 
     <div class="profile-intro">
-      <p>I am an incoming postdoctoral fellow in <a href="https://seng.hkust.edu.hk/about/people/faculty/tianlong-zhang" target="_blank" rel="noopener">Prof. Tianlong Zhang</a>'s group at The Hong Kong University of Science and Technology. I received my PhD in Sustainable Energy and Environment from <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener">The Hong Kong University of Science and Technology (Guangzhou)</a>. Previously, I received my B.Eng. in Computer Science and Technology from <a href="https://en.whu.edu.cn/" target="_blank" rel="noopener">Wuhan University</a> in 2022.</p>
+      <p>I am an incoming postdoctoral fellow in <a href="https://seng.hkust.edu.hk/about/people/faculty/tianlong-zhang" target="_blank" rel="noopener">Prof. Tianlong Zhang</a>'s group at The Hong Kong University of Science and Technology. I received my PhD in Sustainable Energy and Environment from <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener">The Hong Kong University of Science and Technology (Guangzhou)</a>, under the supervision of <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Tongyi/mezhangt" target="_blank" rel="noopener">Prof. Tong-Yi Zhang</a>, <a href="https://seejhuang.people.ust.hk/" target="_blank" rel="noopener">Prof. Jiaqiang Huang</a>, and <a href="https://sites.google.com/view/lijia" target="_blank" rel="noopener">Prof. Jia Li</a>. Previously, I received my B.Eng. in Computer Science and Technology from <a href="https://en.whu.edu.cn/" target="_blank" rel="noopener">Wuhan University</a> in 2022.</p>
 
       <p>My research focuses on materials informatics, especially battery degradation prediction—including battery life prediction, degradation trajectory forecasting, and state-of-health estimation—and AI-driven materials optimization. I have contributed to or advised open-source projects including <a href="https://github.com/thuml/Time-Series-Library" target="_blank" rel="noopener">Time-Series-Library</a>, <a href="https://github.com/microsoft/BatteryML" target="_blank" rel="noopener">BatteryML</a>, <a href="https://github.com/Ruifeng-Tan/BatteryLife" target="_blank" rel="noopener">BatteryLife</a>, and <a href="https://github.com/Bin-Cao/Bgolearn" target="_blank" rel="noopener">Bgolearn</a>.</p>
 
@@ -41,6 +41,7 @@ redirect_from:
             <div>
               <strong>The Hong Kong University of Science and Technology</strong>
               <span>PhD, Sustainable Energy and Environment</span>
+              <span class="institution-advisors">Advisors: <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Tongyi/mezhangt" target="_blank" rel="noopener">Prof. Tong-Yi Zhang</a>, <a href="https://seejhuang.people.ust.hk/" target="_blank" rel="noopener">Prof. Jiaqiang Huang</a>, and <a href="https://sites.google.com/view/lijia" target="_blank" rel="noopener">Prof. Jia Li</a></span>
               <div class="institution-period">
                 <span>Guangzhou Campus, SEE Thrust</span>
                 <span class="institution-date">Sep. 2022 – Aug. 2026</span>
@@ -59,6 +60,7 @@ redirect_from:
                 <span>B.Eng., Computer Science and Technology</span>
                 <span class="institution-date">Aug. 2018 – Jul. 2022</span>
               </div>
+              <span class="institution-advisors">Advisor: <a href="https://jszy.whu.edu.cn/zhuyuanyuan/zh_CN/index/429823/list/" target="_blank" rel="noopener">Prof. Yuanyuan Zhu</a></span>
             </div>
           </li>
         </ul>
@@ -76,6 +78,7 @@ redirect_from:
                   <span>Postdoctoral Fellow, MAE Department</span>
                   <span class="institution-date">Sep. 2026 – Present</span>
                 </div>
+                <span class="institution-group"><a href="https://seng.hkust.edu.hk/about/people/faculty/tianlong-zhang" target="_blank" rel="noopener">Prof. Tianlong Zhang</a>'s group</span>
               </div>
             </li>
             <li class="institution-item">
@@ -86,6 +89,7 @@ redirect_from:
                   <span>Research Assistant, SEEM Department</span>
                   <span class="institution-date">Jun. 2021 – Aug. 2021</span>
                 </div>
+                <span class="institution-group"><a href="https://scholar.google.com/citations?user=iHevumsAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">Prof. Jeffrey Xu Yu</a>'s group</span>
               </div>
             </li>
           </ul>
