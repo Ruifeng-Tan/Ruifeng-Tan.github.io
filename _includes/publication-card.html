@@ -1,0 +1,31 @@
+{% assign publication = include.publication %}
+{% assign show_image = publication.selected %}
+{% if include.text_only %}
+  {% assign show_image = false %}
+{% endif %}
+{% if show_image %}
+  {% assign publication_image = site.static_files | where: "path", publication.image | first %}
+{% endif %}
+<article class="publication-card{% unless show_image %} publication-card--text-only{% endunless %}">
+  {% if show_image %}
+    <div class="publication-card__thumb{% if publication_image %} publication-card__thumb--has-image{% endif %}" aria-hidden="true">
+      <span>{{ publication.short }}</span>
+      {% if publication_image %}
+        <img src="{{ publication.image | relative_url }}" alt="" loading="lazy">
+      {% endif %}
+    </div>
+  {% endif %}
+  <div class="publication-card__body">
+    <div class="publication-card__meta">
+      <span>{{ publication.venue }}, {{ publication.year }}</span>
+      {% if publication.badge %}<span class="publication-badge">{{ publication.badge }}</span>{% endif %}
+    </div>
+    <h3>{{ publication.title }}</h3>
+    <p class="publication-card__authors">{{ publication.authors }}</p>
+    <div class="publication-card__links">
+      {% for link in publication.links %}
+        <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }} <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+      {% endfor %}
+    </div>
+  </div>
+</article>

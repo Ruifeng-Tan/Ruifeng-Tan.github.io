@@ -1,16 +1,22 @@
 ---
-layout: archive
+layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">See full publications in <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-{% endif %}
+<main class="academic-shell">
+  <header class="academic-card page-hero">
+    <h1>Publications</h1>
+    <p>Research on battery intelligence, degradation forecasting, materials informatics, and graph learning. An asterisk (*) denotes equal contribution.</p>
+  </header>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  <section class="academic-card academic-card--compact">
+    <h2 class="section-heading">All Publications</h2>
+    <div class="publication-list">
+      {% for publication in site.data.publications %}
+        {% include publication-card.html publication=publication text_only=true %}
+      {% endfor %}
+    </div>
+  </section>
+</main>
