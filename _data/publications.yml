@@ -1,0 +1,106 @@
+- id: battery-mformer
+  short: BM
+  title: "BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting"
+  authors: "<strong>Ruifeng Tan*</strong>, Jintao Dong*, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang"
+  venue: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
+  year: 2026
+  image: "/images/publications/battery-mformer.jpg"
+  selected: true
+  links:
+    - label: Paper
+      url: "http://arxiv.org/abs/2605.27044"
+    - label: Code
+      url: "https://github.com/Ruifeng-Tan/BatteryMFormer"
+
+- id: pbt
+  short: PBT
+  title: "Pretrained Battery Transformer (PBT): A Foundation Model for Battery Life Prediction"
+  authors: "<strong>Ruifeng Tan</strong>, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang"
+  venue: "Preprint"
+  year: 2025
+  image: "/images/publications/pbt.jpg"
+  selected: true
+  badge: "Preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2512.16334"
+    - label: Code
+      url: "https://github.com/Ruifeng-Tan/PBT"
+
+- id: battery-life
+  short: BL
+  title: "BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction"
+  authors: "<strong>Ruifeng Tan*</strong>, Weixiang Hong*, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang"
+  venue: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
+  year: 2025
+  image: "/images/publications/battery-life.png"
+  selected: true
+  links:
+    - label: Paper
+      url: "https://dl.acm.org/doi/10.1145/3711896.3737372"
+    - label: Code
+      url: "https://github.com/Ruifeng-Tan/BatteryLife"
+
+- id: retired-battery-diagnosis
+  short: UFD
+  title: "Unlocking Ultrafast Diagnosis of Retired Batteries via Interpretable Machine Learning and Optical Fiber Sensors"
+  authors: "Taolue Zhang*, <strong>Ruifeng Tan*</strong>, Pinxi Zhu, Tong-Yi Zhang, Jiaqiang Huang"
+  venue: "ACS Energy Letters"
+  year: 2025
+  image: "/images/publications/retired-battery-diagnosis.jpg"
+  selected: true
+  badge: "Cover Paper"
+  links:
+    - label: Paper
+      url: "https://pubs.acs.org/doi/10.1021/acsenergylett.4c03054"
+    - label: Code
+      url: "https://github.com/Ruifeng-Tan/Ultrafast-diagnosis-of-retired-batteries"
+
+- id: simxrd-4m
+  short: XRD
+  title: "SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark"
+  authors: "Bin Cao*, Yang Liu*, Zinan Zheng*, <strong>Ruifeng Tan</strong>, Jia Li, Tong-Yi Zhang"
+  venue: "International Conference on Learning Representations (ICLR)"
+  year: 2025
+  selected: false
+  links:
+    - label: Paper
+      url: "https://openreview.net/forum?id=mkuB677eMM"
+    - label: Code
+      url: "https://github.com/Bin-Cao/SimXRD"
+
+- id: magnet
+  short: MAG
+  title: "Forecasting Battery Degradation Trajectory under Domain Shift with Domain Generalization"
+  authors: "<strong>Ruifeng Tan</strong>, Xibin Lu, Minhao Cheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang"
+  venue: "Energy Storage Materials"
+  year: 2024
+  image: "/images/publications/magnet.jpg"
+  selected: true
+  links:
+    - label: Paper
+      url: "https://www.sciencedirect.com/science/article/pii/S2405829724005518"
+    - label: Code
+      url: "https://github.com/Ruifeng-Tan/MAGNet"
+
+- id: sodium-ion-aging
+  short: SIB
+  title: "Unravelling Thermal and Enthalpy Evolutions of Commercial Sodium-Ion Cells upon Cycling Ageing via Fiber Optic Sensors"
+  authors: "Jiaqiang Huang, Charles Delacourt, Parth Desai, Charlotte Gervillié-Mouravieff, Laura Albero Blanquer, <strong>Ruifeng Tan</strong>, Jean-Marie Tarascon"
+  venue: "Journal of The Electrochemical Society"
+  year: 2023
+  selected: false
+  links:
+    - label: Paper
+      url: "https://iopscience.iop.org/article/10.1149/1945-7111/acf625"
+
+- id: pmgnn
+  short: GNN
+  title: "PMGNN: A Pioneer-Master Graph Neural Network for Graph Classification"
+  authors: "<strong>Ruifeng Tan</strong>, Yuanyuan Zhu"
+  venue: "International Joint Conference on Neural Networks (IJCNN)"
+  year: 2022
+  selected: false
+  links:
+    - label: Paper
+      url: "https://ieeexplore.ieee.org/document/9892849"

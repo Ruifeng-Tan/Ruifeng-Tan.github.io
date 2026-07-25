@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Ruifeng Tan"
 title_separator          : "-"
-name                     : &name "Ruifeng Tan (谭瑞锋)"
-description              : &description "personal description"
+name                     : &name "Ruifeng Tan"
+description              : &description "Ruifeng Tan's academic homepage — battery intelligence, degradation forecasting, and AI-driven materials research."
 url                      : https://Ruifeng-Tan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ruifeng-Tan/Ruifeng-Tan.github.io"
@@ -22,7 +22,7 @@ repository               : "Ruifeng-Tan/Ruifeng-Tan.github.io"
 author:
   # Biographic information
   avatar           : "prof_pic.jpg"
-  name             : "Ruifeng Tan (谭瑞锋)"
+  name             : "Ruifeng Tan"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Sustainable Energy and Environment"
   location         : "Guangzhou, Guangdong"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=XAGG2pIAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=XAGG2pIAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-0196-7286"
   semantic         : # URL
