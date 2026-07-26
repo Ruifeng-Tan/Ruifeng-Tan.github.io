@@ -22,7 +22,6 @@
   year: 2025
   image: "/images/publications/pbt.jpg"
   selected: true
-  badge: "Preprint"
   links:
     - label: Paper
       url: "https://arxiv.org/abs/2512.16334"
@@ -37,6 +36,8 @@
   year: 2025
   image: "/images/publications/battery-life.png"
   selected: true
+  badge: "40,000+ downloads"
+  badge_variant: "promotion"
   rankings:
     - "CCF-A"
   links:
