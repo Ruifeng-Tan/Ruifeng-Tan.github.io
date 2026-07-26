@@ -415,6 +415,34 @@ a:hover { color: #155b84; text-decoration: none; }
   text-transform: uppercase;
 }
 
+.publication-card__meta-primary {
+  display: flex;
+  flex: 1 1 32rem;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.6rem;
+  min-width: 0;
+}
+
+.publication-ranking-list {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.publication-ranking {
+  padding: 0.15rem 0.48rem;
+  border: 1px solid #c8def3;
+  border-radius: 999px;
+  background: #eaf4fc;
+  color: #17658b;
+  font-size: 0.68rem;
+  font-weight: 800;
+  line-height: 1.25;
+  text-transform: none;
+  white-space: nowrap;
+}
+
 .publication-badge {
   padding: 0.15rem 0.48rem;
   border-radius: 999px;

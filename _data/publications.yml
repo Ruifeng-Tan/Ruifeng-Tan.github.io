@@ -6,6 +6,8 @@
   year: 2026
   image: "/images/publications/battery-mformer.jpg"
   selected: true
+  rankings:
+    - "CCF-A"
   links:
     - label: Paper
       url: "http://arxiv.org/abs/2605.27044"
@@ -35,6 +37,8 @@
   year: 2025
   image: "/images/publications/battery-life.png"
   selected: true
+  rankings:
+    - "CCF-A"
   links:
     - label: Paper
       url: "https://dl.acm.org/doi/10.1145/3711896.3737372"
@@ -50,6 +54,9 @@
   image: "/images/publications/retired-battery-diagnosis.jpg"
   selected: true
   badge: "Cover Paper"
+  rankings:
+    - "JCR-Q1"
+    - "SCI-Q1 Top"
   links:
     - label: Paper
       url: "https://pubs.acs.org/doi/10.1021/acsenergylett.4c03054"
@@ -63,6 +70,8 @@
   venue: "International Conference on Learning Representations (ICLR)"
   year: 2025
   selected: false
+  rankings:
+    - "CCF-A"
   links:
     - label: Paper
       url: "https://openreview.net/forum?id=mkuB677eMM"
@@ -77,6 +86,9 @@
   year: 2024
   image: "/images/publications/magnet.jpg"
   selected: true
+  rankings:
+    - "JCR-Q1"
+    - "SCI-Q1 Top"
   links:
     - label: Paper
       url: "https://www.sciencedirect.com/science/article/pii/S2405829724005518"
@@ -90,6 +102,9 @@
   venue: "Journal of The Electrochemical Society"
   year: 2023
   selected: false
+  rankings:
+    - "JCR-Q2"
+    - "SCI-Q4"
   links:
     - label: Paper
       url: "https://iopscience.iop.org/article/10.1149/1945-7111/acf625"
@@ -101,6 +116,8 @@
   venue: "International Joint Conference on Neural Networks (IJCNN)"
   year: 2022
   selected: false
+  rankings:
+    - "CCF-C"
   links:
     - label: Paper
       url: "https://ieeexplore.ieee.org/document/9892849"

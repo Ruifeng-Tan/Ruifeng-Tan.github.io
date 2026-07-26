@@ -17,7 +17,16 @@
   {% endif %}
   <div class="publication-card__body">
     <div class="publication-card__meta">
-      <span>{{ publication.venue }}, {{ publication.year }}</span>
+      <div class="publication-card__meta-primary">
+        <span>{{ publication.venue }}, {{ publication.year }}</span>
+        {% if publication.rankings %}
+          <span class="publication-ranking-list" aria-label="Publication rankings">
+            {% for ranking in publication.rankings %}
+              <span class="publication-ranking">{{ ranking }}</span>
+            {% endfor %}
+          </span>
+        {% endif %}
+      </div>
       {% if publication.badge %}<span class="publication-badge">{{ publication.badge }}</span>{% endif %}
     </div>
     <h3>{{ publication.title }}</h3>
