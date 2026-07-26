@@ -37,7 +37,6 @@
   image: "/images/publications/battery-life.png"
   selected: true
   badge: "40,000+ downloads"
-  badge_variant: "promotion"
   rankings:
     - "CCF-A"
   links:
