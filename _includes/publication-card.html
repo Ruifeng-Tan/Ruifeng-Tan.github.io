@@ -18,7 +18,7 @@
   <div class="publication-card__body">
     <div class="publication-card__meta">
       <div class="publication-card__meta-primary">
-        <span>{{ publication.venue }}, {{ publication.year }}</span>
+        <span>{{ publication.venue | escape }}, {{ publication.year }}</span>
         {% if publication.rankings %}
           <span class="publication-ranking-list" aria-label="Publication rankings">
             {% for ranking in publication.rankings %}

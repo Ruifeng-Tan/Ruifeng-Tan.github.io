@@ -18,10 +18,13 @@
   short: PBT
   title: "Pretrained Battery Transformer (PBT): A Foundation Model for Battery Life Prediction"
   authors: "<strong>Ruifeng Tan</strong>, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang"
-  venue: "Preprint"
-  year: 2025
+  venue: "Energy & Environmental Science"
+  year: 2026
   image: "/images/publications/pbt.jpg"
   selected: true
+  rankings:
+    - "JCR-Q1"
+    - "SCI-Q1 Top"
   links:
     - label: Paper
       url: "https://arxiv.org/abs/2512.16334"
