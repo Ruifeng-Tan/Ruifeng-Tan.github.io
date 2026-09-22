@@ -131,7 +131,7 @@ redirect_from:
       <li class="news-item"><time class="news-date">Jul. 2026</time><p>Gave an invited talk at <a href="https://cmc2026.scimeeting.cn/cn/web/index/35126_3062537_149158" target="_blank" rel="noopener">China Materials Conference 2026-FB06</a>.</p></li>
       <li class="news-item"><time class="news-date">May 2026</time><p>BatteryMFormer was accepted by KDD 2026.</p></li>
       <li class="news-item"><time class="news-date">May 2026</time><p>PBT won the Best Poster Award at the 3rd International AI4Materials Forum.</p></li>
-      <li class="news-item"><time class="news-date">Dec. 2025</time><p>Released <a href="https://arxiv.org/abs/2512.16334" target="_blank" rel="noopener">PBT</a>, a transferable foundation model for battery life prediction.</p></li>
+      <li class="news-item"><time class="news-date">Dec. 2025</time><p>Released <a href="https://doi.org/10.1039/d6ee03446b" target="_blank" rel="noopener">PBT</a>, a transferable foundation model for battery life prediction.</p></li>
       <li class="news-item"><time class="news-date">Sep. 2025</time><p>Returned to HKUST(GZ) after cross-campus study.</p></li>
       <li class="news-item"><time class="news-date">May 2025</time><p><a href="https://github.com/Ruifeng-Tan/BatteryLife" target="_blank" rel="noopener">BatteryLife</a> was accepted by KDD 2025.</p></li>
       <li class="news-item"><time class="news-date">Apr. 2025</time><p>Gave an oral presentation at the 2025 MRS Spring Meeting &amp; Exhibit.</p></li>

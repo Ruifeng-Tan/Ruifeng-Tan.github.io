@@ -27,7 +27,7 @@
     - "SCI-Q1 Top"
   links:
     - label: Paper
-      url: "https://arxiv.org/abs/2512.16334"
+      url: "https://doi.org/10.1039/d6ee03446b"
     - label: Code
       url: "https://github.com/Ruifeng-Tan/PBT"
 
