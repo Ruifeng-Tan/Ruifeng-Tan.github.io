@@ -20,7 +20,7 @@ redirect_from:
 
       <p>My research focuses on materials informatics, especially battery degradation prediction—including battery life prediction, degradation trajectory forecasting, and state-of-health estimation—and AI-driven materials optimization. I have contributed to or advised open-source projects including <a href="https://github.com/thuml/Time-Series-Library" target="_blank" rel="noopener">Time-Series-Library</a>, <a href="https://github.com/microsoft/BatteryML" target="_blank" rel="noopener">BatteryML</a>, <a href="https://github.com/Ruifeng-Tan/BatteryLife" target="_blank" rel="noopener">BatteryLife</a>, and <a href="https://github.com/Bin-Cao/Bgolearn" target="_blank" rel="noopener">Bgolearn</a>.</p>
 
-      <p>I also serve as a reviewer for KDD, Applied Energy, IEEE Transactions on Industrial Electronics, Journal of Power Sources, and Journal of Energy Storage.</p>
+      <p>I also serve as a reviewer for Nature Communications, KDD, Applied Energy, IEEE Transactions on Industrial Electronics, Journal of Power Sources, and Journal of Energy Storage.</p>
     </div>
 
     <nav class="social-row" aria-label="Academic and contact links">
