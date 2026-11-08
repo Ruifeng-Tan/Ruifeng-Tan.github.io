@@ -124,7 +124,8 @@ a:hover { color: #155b84; text-decoration: none; }
 
 .profile-photo {
   float: right;
-  width: 232px;
+  width: 278.4px;
+  height: auto;
   margin: 0 0 1.45rem 2.1rem;
   padding: 4px;
   border: 1px solid #d8dde6;
@@ -553,7 +554,7 @@ a:hover { color: #155b84; text-decoration: none; }
   .masthead__menu-item--lg .site-brand-text { display: none; }
   .academic-shell { width: min(100% - 1rem, 1320px); }
   .academic-card, .page-hero { padding: 1.35rem; border-radius: 10px; }
-  .profile-photo { float: none; width: min(210px, 70%); margin: 0 auto 1.3rem; }
+  .profile-photo { float: none; width: min(252px, 84%); margin: 0 auto 1.3rem; }
   .profile-card h1 { font-size: 2rem; }
   .social-row { gap: 0.55rem 0.9rem; }
   .publication-card { grid-template-columns: 1fr; }
