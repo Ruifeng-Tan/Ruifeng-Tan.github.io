@@ -186,10 +186,8 @@ a:hover { color: #155b84; text-decoration: none; }
   gap: 3.5rem;
 }
 
-.credentials-column {
-  display: grid;
-  gap: 1.65rem;
-  align-content: start;
+.credentials-awards {
+  grid-column: 1 / -1;
 }
 
 .credentials-section .section-heading::after {

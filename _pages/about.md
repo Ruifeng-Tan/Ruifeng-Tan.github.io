@@ -20,7 +20,7 @@ redirect_from:
 
       <p>My research focuses on materials informatics, especially battery degradation prediction—including battery life prediction, degradation trajectory forecasting, and state-of-health estimation—and AI-driven materials optimization. I have contributed to or advised open-source projects including <a href="https://github.com/thuml/Time-Series-Library" target="_blank" rel="noopener">Time-Series-Library</a>, <a href="https://github.com/microsoft/BatteryML" target="_blank" rel="noopener">BatteryML</a>, <a href="https://github.com/Ruifeng-Tan/BatteryLife" target="_blank" rel="noopener">BatteryLife</a>, and <a href="https://github.com/Bin-Cao/Bgolearn" target="_blank" rel="noopener">Bgolearn</a>.</p>
 
-      <p>I also serve as a reviewer for Nature Communications, KDD, Applied Energy, IEEE Transactions on Industrial Electronics, Journal of Power Sources, and Journal of Energy Storage.</p>
+      <p>I also serve as a reviewer for Nature Communications, KDD, Applied Energy, IEEE Transactions on Industrial Electronics, IEEE Transactions on Transportation Electrification, Journal of Power Sources, and Journal of Energy Storage.</p>
     </div>
 
     <nav class="social-row" aria-label="Academic and contact links">
@@ -66,59 +66,57 @@ redirect_from:
         </ul>
       </section>
 
-      <div class="credentials-column">
-        <section class="credentials-section" aria-labelledby="experience-heading">
-          <h2 class="section-heading" id="experience-heading">Experience</h2>
-          <ul class="institution-list">
-            <li class="institution-item">
-              <img src="{{ '/images/HKUSTGZ.png' | relative_url }}" alt="HKUST logo">
-              <div>
-                <strong>The Hong Kong University of Science and Technology</strong>
-                <div class="institution-period">
-                  <span>Postdoctoral Fellow, MAE Department</span>
-                  <span class="institution-date">Sep. 2026 – Present</span>
-                </div>
-                <span class="institution-group"><a href="https://seng.hkust.edu.hk/about/people/faculty/tianlong-zhang" target="_blank" rel="noopener">Prof. Tianlong Zhang</a>'s group</span>
+      <section class="credentials-section" aria-labelledby="experience-heading">
+        <h2 class="section-heading" id="experience-heading">Experience</h2>
+        <ul class="institution-list">
+          <li class="institution-item">
+            <img src="{{ '/images/HKUSTGZ.png' | relative_url }}" alt="HKUST logo">
+            <div>
+              <strong>The Hong Kong University of Science and Technology</strong>
+              <div class="institution-period">
+                <span>Postdoctoral Fellow, MAE Department</span>
+                <span class="institution-date">Sep. 2026 – Present</span>
               </div>
-            </li>
-            <li class="institution-item">
-              <img src="{{ '/images/CUHK.png' | relative_url }}" alt="CUHK logo">
-              <div>
-                <strong>The Chinese University of Hong Kong</strong>
-                <div class="institution-period">
-                  <span>Research Assistant, SEEM Department</span>
-                  <span class="institution-date">Jun. 2021 – Aug. 2021</span>
-                </div>
-                <span class="institution-group"><a href="https://scholar.google.com/citations?user=iHevumsAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">Prof. Jeffrey Xu Yu</a>'s group</span>
+              <span class="institution-group"><a href="https://seng.hkust.edu.hk/about/people/faculty/tianlong-zhang" target="_blank" rel="noopener">Prof. Tianlong Zhang</a>'s group</span>
+            </div>
+          </li>
+          <li class="institution-item">
+            <img src="{{ '/images/CUHK.png' | relative_url }}" alt="CUHK logo">
+            <div>
+              <strong>The Chinese University of Hong Kong</strong>
+              <div class="institution-period">
+                <span>Research Assistant, SEEM Department</span>
+                <span class="institution-date">Jun. 2021 – Aug. 2021</span>
               </div>
-            </li>
-          </ul>
-        </section>
+              <span class="institution-group"><a href="https://scholar.google.com/citations?user=iHevumsAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">Prof. Jeffrey Xu Yu</a>'s group</span>
+            </div>
+          </li>
+        </ul>
+      </section>
 
-        <section class="credentials-section credentials-awards" aria-labelledby="awards-heading">
-          <h2 class="section-heading" id="awards-heading">Honors &amp; Awards</h2>
-          <ul class="award-list">
-            <li class="award-item">
-              <div class="award-row">
-                <span><strong>High-Level Academic Presentation</strong>, China Materials Conference (CMC)</span>
-                <span class="award-year">2026</span>
-              </div>
-            </li>
-            <li class="award-item">
-              <div class="award-row">
-                <span><strong>Best Poster Award</strong>, 3rd International AI4Materials Forum</span>
-                <span class="award-year">2026</span>
-              </div>
-            </li>
-            <li class="award-item">
-              <div class="award-row">
-                <span><strong>National Second Prize</strong>, China Software Cup College Student Software Design Competition</span>
-                <span class="award-year">2020</span>
-              </div>
-            </li>
-          </ul>
-        </section>
-      </div>
+      <section class="credentials-section credentials-awards" aria-labelledby="awards-heading">
+        <h2 class="section-heading" id="awards-heading">Honors &amp; Awards</h2>
+        <ul class="award-list">
+          <li class="award-item">
+            <div class="award-row">
+              <span><strong>High-Level Academic Presentation</strong>, China Materials Conference (CMC)</span>
+              <span class="award-year">2026</span>
+            </div>
+          </li>
+          <li class="award-item">
+            <div class="award-row">
+              <span><strong>Best Poster Award</strong>, 3rd International AI4Materials Forum</span>
+              <span class="award-year">2026</span>
+            </div>
+          </li>
+          <li class="award-item">
+            <div class="award-row">
+              <span><strong>National Second Prize</strong>, China Software Cup College Student Software Design Competition</span>
+              <span class="award-year">2020</span>
+            </div>
+          </li>
+        </ul>
+      </section>
     </div>
   </section>
 
